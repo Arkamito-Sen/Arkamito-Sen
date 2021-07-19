@@ -1,6 +1,6 @@
 ### Hello, I am Arkamito Sen  👋
 
-- 🔭 I’m currently working on a Industrial Project of designing a Welding Robotic arm.
+- 🔭 I’m currently working on a Industrial Project of designing a Welding Robotic arm, that would be able to weld Pickling tanks of variable dimensions.
 - 🌱 I’m currently learning Fusion 360.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
