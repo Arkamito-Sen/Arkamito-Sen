@@ -1,6 +1,6 @@
 ### Hello, I am Arkamito Sen  👋
 
-- 🔭 I’m currently working on a Industrial Project of designing a Welding Robotic arm, that would be able to weld Pickling tanks of variable dimensions.
+- 🔭 I’m currently working on an Industrial Project of designing a Welding Robotic arm, that would be able to weld Pickling tanks of variable dimensions.
 - 🌱 I’m currently learning AutoDesk Fusion 360.
 - 💬 Ask me about Computer Aided Designs, Robotics, and other Tech related stuffs.
 - 🔴 CAD softwares I use: Dassault Systemes CATIA v5, Autodesk Fusion 360, AutoCAD(rare).
