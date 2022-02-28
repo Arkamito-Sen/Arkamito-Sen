@@ -7,5 +7,5 @@
 - 🔴 Programming Laguages I kmow: C++, C, Python.
 - 📫 How to reach me: Email ID- arkamitosen2020@gmail.com , Phone No- 7718219713
 - 😄 Pronouns: Me , I
-- ⚡ Fun fact: I spent almost all the time either designing, or learning new things. I am an enthusiast learner, and believe in perfection, and harwork as the key words in my Life.
+- ⚡ About Me: I spend almost all the time either designing, or learning new things, or thinking something innovative.I am an enthusiast learner, and believe in perfection, and harwork as the key words in my Life.
 -->
